@@ -236,8 +236,7 @@ Exterior2nd: Exterior covering on house (if more than one material)
     VinylSd Vinyl Siding
     Wd Sdng Wood Siding
     WdShing Wood Shingles
-    
-MasVnrType: Masonry veneer type
+    MasVnrType: Masonry veneer type
     BrkCmn Brick Common
     BrkFace Brick Face
     CBlock Cinder Block
@@ -404,11 +403,7 @@ GarageType: Garage location 2Types More than one type of garage
 
 GarageYrBlt: Year garage was built
 
-GarageFinish: Interior finish of the garage 
-    Fin Finished 
-    RFn Rough 
-    Finished Unf Unfinished 
-    NA No Garage
+GarageFinish: Interior finish of the garage Fin Finished RFn Rough Finished Unf Unfinished NA No Garage
 
 GarageCars: Size of garage in car capacity
 
