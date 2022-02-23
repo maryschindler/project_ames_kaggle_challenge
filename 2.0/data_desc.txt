@@ -393,7 +393,8 @@ FireplaceQu: Fireplace quality
     Po Poor - Ben Franklin Stove
     NA No Fireplace
 
-GarageType: Garage location 2Types More than one type of garage
+GarageType: Garage location 
+    2Types More than one type of garage
     Attchd Attached to home
     Basment Basement Garage
     BuiltIn Built-In (Garage part of house - typically has room above garage)
@@ -403,7 +404,11 @@ GarageType: Garage location 2Types More than one type of garage
 
 GarageYrBlt: Year garage was built
 
-GarageFinish: Interior finish of the garage Fin Finished RFn Rough Finished Unf Unfinished NA No Garage
+GarageFinish: Interior finish of the garage 
+    Fin Finished 
+    RFn Rough Finished 
+    Unf Unfinished 
+    NA No Garage
 
 GarageCars: Size of garage in car capacity
 
